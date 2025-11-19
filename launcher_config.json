@@ -8,6 +8,6 @@
     { "name": "bin" }
   ],
   "clientFolder": "SiriuzOnline",
-  "newClientUrl": "https://github.com/SiriuzOnline/SiriuzOnlineClient/releases/download/v1.0.0/SiriuzOnline.zip",
+  "newClientUrl": "https://github.com/SiriuzOnline/SiriuzOnlineClient/releases/download/v1.0.1/SiriuzOnline.zip",
   "clientExecutable": "client.exe"
 }
