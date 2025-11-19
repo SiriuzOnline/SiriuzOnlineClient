@@ -1,0 +1,13 @@
+{
+  "clientVersion": "15.11.c9d1cf",
+  "launcherVersion": "1.0",
+  "replaceFolders": true,
+  "replaceFolderName": [
+    { "name": "data" },
+    { "name": "modules" },
+    { "name": "bin" }
+  ],
+  "clientFolder": "SiriuzOnline",
+  "newClientUrl": "https://github.com/SiriuzOnline/SiriuzOnlineClient/releases/download/v1.0.0/SiriuzOnline.zip",
+  "clientExecutable": "client.exe"
+}
