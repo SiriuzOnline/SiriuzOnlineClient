@@ -5,7 +5,8 @@
   "replaceFolderName": [
     { "name": "data" },
     { "name": "modules" },
-    { "name": "bin" }
+    { "name": "bin" },
+    { "name": "assets" }
   ],
   "clientFolder": "SiriuzOnline",
   "newClientUrl": "https://github.com/SiriuzOnline/SiriuzOnlineClient/releases/download/v1.0.3/SiriuzOnline.zip",
