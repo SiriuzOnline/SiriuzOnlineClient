@@ -9,6 +9,6 @@
     { "name": "assets" }
   ],
   "clientFolder": "SiriuzOnline",
-  "newClientUrl": "https://github.com/SiriuzOnline/SiriuzOnlineClient/releases/download/v1.0.3/SiriuzOnline.zip",
+  "newClientUrl": "https://github.com/SiriuzOnline/SiriuzOnlineClient/releases/download/v1.0.4/SiriuzOnline.zip",
   "clientExecutable": "client.exe"
 }
